@@ -37,13 +37,13 @@ header {
 }
 
 .social a:hover, .social header {
-    color: #CC6D8B;
+    color: #FF92D0;
 }
 
-.dev a:hover, .dev header {
-    color: #469E76;
+.study a:hover, .study header {
+    color: #5AF78E;
 }
 
 .other a:hover, .other header {
-        color: #3C97AD;
+        color: #9AEDFE;
 }
