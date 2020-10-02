@@ -4,8 +4,8 @@
 }
 
 body {
-    background-color: #262626;
-	color: #ADB6C1;
+    background-color: #2e3440;
+	color: #a5abb6;
     font-family: 'Neep', Helvetica, sans-serif;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-    background-color: #4D4D4D;
+    background-color: #4c566a;
     padding: 3em;
     margin: 3em;
     height: 6.3em;
@@ -27,7 +27,7 @@ body {
 }
 
 a, a:visited {
-    color: #9faab8;
+    color: #a5abb6;
     text-decoration: none;
 }
 
@@ -37,13 +37,13 @@ header {
 }
 
 .social a:hover, .social header {
-    color: #FF92D0;
+    color: #b48ead;
 }
 
 .study a:hover, .study header {
-    color: #5AF78E;
+    color: #bf616a;
 }
 
 .other a:hover, .other header {
-        color: #9AEDFE;
+        color: #81a1c1;
 }
